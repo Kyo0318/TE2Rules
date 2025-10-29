@@ -1,0 +1,5 @@
+te2rules==1.0.1
+xgboost
+scikit-learn
+pandas
+numpy
